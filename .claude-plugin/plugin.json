@@ -1,0 +1,9 @@
+{
+    "name": "viantez-skills",
+    "skills": [
+        "./skills/productivity/skill-grill-me",
+        "./skills/productivity/skill-context",
+        "./skills/productivity/skill-diagnose",
+        "./skills/productivity/skill-schueler-notes"
+    ]
+}
