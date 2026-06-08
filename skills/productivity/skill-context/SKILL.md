@@ -13,6 +13,7 @@ related_skills:
 ## Übergeordnetes Ziel
 
 "Schöner League of Legends spielen, besser denken." — Viantez Vision.
+**Ian coacht ALLE Rollen.** Jungle ist sein Spezialgebiet (die tiefste Expertise), aber das Coaching-Konzept, die Methodik und die Tools funktionieren rollenunabhängig. Ein Schüler in Silver Top oder Gold ADC bekommt denselben strukturierten Ansatz.
 
 Jeder Coaching-Begriff ist entweder:
 - **Spielmechanisch** (Jungle-Phasen, Champion-Archetypen, Makro-Konzepte)
@@ -47,7 +48,10 @@ Entscheidungen: "Wo ist der Win Condition? Zwinge ich Baron oder poke + siege?"
 - "Late Game" ≠ "random teamfight" — es geht um kontrollierte Objective-Setups
 - "Split-Push" im Jungle = extrem selten, nur auf bestimmte Champs (Nidalee, Graves)
 
-## Champion-Archetypen (Jungle)
+## Champion-Archetypen:**
+"Ian coacht ALLE Rollen, mit Spezialgebiet Jungle. Die Archetypen unten sind Jungle-Fokus, aber das Coaching-Konzept gilt rollenunabhängig: Makro-Entscheidungen, Mikro-Mechaniken, Mental-Blöcke — egal ob Jungle, Mid, ADC, Top oder Support."
+
+## Champion-Archetypen (Jungle — Spezialgebiet, nicht Ausschluss anderer Rollen)
 
 ### Engage-Tanks (Jarvan IV, Sejuani, Zac)
 Rolle: Initiation, Peel, Frontline. Skaliert mit Teamplay.
@@ -145,7 +149,7 @@ Besser spielen → schönere Plays → Montage-würdige Clips → LoL Director V
 | **Session** | Eine Coaching-Einheit (1-3h) | Lektion, Training |
 | **Diagnostic** | Analyse-Phase vor jeder Intervention | Assessment (zu formell) |
 | **Grill** | Kritische Befragung vor Session-Plan | Interview (zu weich) |
-|| **Coaching-Level** | Das 5-Stufen-Modell (Erkennen→Verstehen→Anwenden→Automatisieren→Meistern) | Skill-Stufen (zu technisch) |
+| **Coaching-Level** | Das 5-Stufen-Modell (Erkennen→Verstehen→Anwenden→Automatisieren→Meistern) | Skill-Stufen (zu technisch) |
 | **Forge of Legends** | Das Tool / Die Plattform | Viantez Hub (alt), Mind Arena (alt) |
 | **Journey** | Ians persönliche Silber→Challenger Story | Blog, Vlog |
 | **Montage-Play** | Der Content-Kreislauf | Content-Funnel (zu BWL) |
@@ -162,7 +166,7 @@ Besser spielen → schönere Plays → Montage-würdige Clips → LoL Director V
 - **Ein Schüler** hat ein **Symptom** (zu passiv, tilted schnell, verliert 1v1s)
 - **Symptom** → **Diagnostic** → **Diagnose** (Makro/Mechanik/Mental)
 - **Diagnose** → **Session-Format** (VOD/Live/Guided/Mental-Talk)
-|- **Session-Format** → **Coaching-Level-Ziel** für diese Session
+- **Session-Format** → **Coaching-Level-Ziel** für diese Session
 - **Session** → **Journey-Content** (Clips, Learnings) → **Content-Engine**
 - **Content-Engine** → **Reichweite** → **neue Schüler**
 

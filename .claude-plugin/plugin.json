@@ -4,6 +4,7 @@
         "./skills/productivity/skill-grill-me",
         "./skills/productivity/skill-context",
         "./skills/productivity/skill-diagnose",
-        "./skills/productivity/skill-schueler-notes"
+        "./skills/productivity/skill-schueler-notes",
+        "./skills/productivity/skill-coaching-konzept"
     ]
 }

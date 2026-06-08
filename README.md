@@ -53,3 +53,5 @@ Vier typische Failure Modes beim AI-Coaching, die diese Skills lösen:
 ## Lizenz
 
 MIT — hack around, make them your own.
+
+- **[skill-coaching-konzept](./skills/productivity/skill-coaching-konzept/SKILL.md)** — Komplettes Coaching-Konzept: Philosophie, Methodik (Diagnostic→Session→Übung→Review), Session-Struktur, Paket-Preise, Content-Trichter. Basierend auf PlayersHUB-Analyse.
