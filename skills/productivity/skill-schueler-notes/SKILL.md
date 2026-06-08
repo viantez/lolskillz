@@ -1,7 +1,11 @@
 ---
-name: skill-schueler-notes
+name: viantez-schueler-notes
 description: "NOTES.md-System nach Matt Pococks Vorbild — speichert Schüler-Präferenzen, Diagnosen, Fix-Historie und verbesserungswürdige Muster pro Schüler. Ermöglicht Kontinuität über Sessions hinweg."
 tags: [viantez, coaching, notes, schüler-tracking]
+related_skills:
+  - diagnose-viantez
+  - viantez-grill-me
+  - forge-of-legends-context
 ---
 
 # Viantez Schüler-Notes (NOTES.md-System)
@@ -32,7 +36,7 @@ Struktur:
 
 ## NOTES.md Vorlage (pro Schüler)
 
-Kopiere diese Struktur bei jedem neuen Schüler:
+Kopiere diese Struktur bei jedem neuen Schüler. Die Rohvorlage liegt in `templates/note-template.md`.
 
 ```markdown
 # Schüler: [Name/In-Game-Name]
@@ -80,7 +84,7 @@ Kopiere diese Struktur bei jedem neuen Schüler:
 ## Was ICH (der Coach) besser machen kann
 
 - [Selbstkritik: Was hast du in der letzten Session nicht gut gemacht?]
-- [Auf welcher Eskrima-Stufe habt ihr gearbeitet und war das realistisch?]
+- [Auf welchem Coaching-Level habt ihr gearbeitet und war das realistisch?]
 ```
 
 ## _index.md — Übersicht aller Schüler

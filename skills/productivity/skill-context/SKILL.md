@@ -1,7 +1,11 @@
 ---
-name: skill-context
-description: "Fachglossar für Viantez / Forge of Legends — definiert Jungle-Phasen, Eskrima-Level, Champion-Archetypen und Coaching-Begriffe. Reduziert AI-Agent-Geschwätzigkeit durch präzise geteilte Terminologie. Analog zu Matt Pococks CONTEXT.md."
+name: forge-of-legends-context
+description: "Fachglossar für Viantez / Forge of Legends — definiert Jungle-Phasen, Coaching-Level, Champion-Archetypen und Coaching-Begriffe. Reduziert AI-Agent-Geschwätzigkeit durch präzise geteilte Terminologie. Analog zu Matt Pococks CONTEXT.md."
 tags: [viantez, forge-of-legends, coaching, glossary]
+related_skills:
+  - viantez-grill-me
+  - diagnose-viantez
+  - viantez-schueler-notes
 ---
 
 # Forge of Legends — Context & Glossar
@@ -12,7 +16,7 @@ tags: [viantez, forge-of-legends, coaching, glossary]
 
 Jeder Coaching-Begriff ist entweder:
 - **Spielmechanisch** (Jungle-Phasen, Champion-Archetypen, Makro-Konzepte)
-- **Mental/Mindset** (Eskrima-Level, Tilt-Arten, Fokus-Prinzipien)
+- **Mental/Mindset** (Coaching-Level, Tilt-Arten, Fokus-Prinzipien)
 - **Business** (Paket-Struktur, Content-Engine, Journey)
 
 ## Jungle-Phasen (Spielmechanisch)
@@ -69,41 +73,41 @@ Stärke: Hoher Champion-Damage, können Matches alleine tragen. Schwäche: Squis
 Empfohlen für: Spieler die "Midlaner im Jungle" spielen wollen.
 Trainings-Mantra: "Du bist der Carry. Dein Team ist Support."
 
-## Das Eskrima-Framework (Mindset)
+## Das Coaching-Level-Modell (Mindset)
 
-### Level 1 — Awareness (Bewusstsein)
-"Du erkennst, dass ein Problem existiert."
+### Level 1 — Erkennen
+"Der Schüler merkt, dass ein Problem existiert."
 - Du stirbst und denkst "das war mein Fehler" statt "mein Team ist scheiße"
 - Du checkst Minimap und merkst "ich hätte weglaufen sollen"
 - Du erkennst Tilt als Tilt
 - **Ziel:** 0 "ich wusste nicht warum ich gestorben bin" pro Spiel
 
-### Level 2 — Understanding (Verständnis)
-"Du verstehst WARUM das Problem existiert."
+### Level 2 — Verstehen
+"Der Schüler versteht WARUM das Problem existiert."
 - Du stirbst → du weißt: "hab zu spät gecleart, der Enemy-Jungle wusste wo ich bin"
 - Du verlierst Trade → "mein Pathing war suboptimal für dieses Matchup"
 - Du tilst → "weil ich zu hohe Erwartungen hatte und die nicht erfüllt wurden"
 - **Ziel:** Nach jedem Death/Play eine Analyse in <15 Sekunden
 
-### Level 3 — Application (Anwendung)
-"Du wendest die Erkenntnis im nächsten Spiel an."
+### Level 3 — Anwenden
+"Der Schüler setzt die Erkenntnis im nächsten Spiel um."
 - Nach dem Death in Spiel 1 passt du dein Pathing in Spiel 2 an
 - Nach einem Tilt-Spiel wechselst du in den "Mental Reset"-Modus
 - Du hast eine Checkliste im Kopf: "Vor jedem Gank: (1) Lane-State checken (2) Summoner-Spells checken (3) Enemy-Jungle-Location schätzen"
 - **Ziel:** Transferrate > 70% (von Analyse → Umsetzung)
 
-### Level 4 — Integration (Verinnerlichung)
-"Die Änderung ist automatisch. Du denkst nicht mehr darüber nach."
+### Level 4 — Automatisieren
+"Die Änderung läuft ohne bewusstes Nachdenken."
 - Du passt dein Pathing automatisch an Matchups an, ohne bewusst zu überlegen
 - Dein Ward-Score ist konstant, auch unter Druck
 - Du spürst Tilt kommen und schaltest vorher um, nicht danach
 - **Ziel:** Die Änderung wird nicht vergessen, auch nach 2 Wochen Pause
 
-### Level 5 — Unconscious Competence (Unbewusste Kompetenz)
-"So spielst du. Nicht nur in League, sondern im Leben."
+### Level 5 — Meistern
+"Der Schüler kann es anderen beibringen."
 - Entscheidungen fallen intuitiv korrekt
 - Du spielst "im Flow" ohne Analyse-Zwang
-- Dieses Level ist das Ziel der gesamten Viantez-Reise
+- Du erkennst Muster bei anderen Spielern, die dir vorher selbst passiert sind
 - **Hinweis:** Extrem selten erreicht. Ziel ist Level 4 in den meisten Bereichen.
 
 ## Journey-Content-Engine
@@ -141,7 +145,7 @@ Besser spielen → schönere Plays → Montage-würdige Clips → LoL Director V
 | **Session** | Eine Coaching-Einheit (1-3h) | Lektion, Training |
 | **Diagnostic** | Analyse-Phase vor jeder Intervention | Assessment (zu formell) |
 | **Grill** | Kritische Befragung vor Session-Plan | Interview (zu weich) |
-| **Eskrima** | Das 5-Level-Mindset-Framework | Mindset-Stufen (zu generisch) |
+|| **Coaching-Level** | Das 5-Stufen-Modell (Erkennen→Verstehen→Anwenden→Automatisieren→Meistern) | Skill-Stufen (zu technisch) |
 | **Forge of Legends** | Das Tool / Die Plattform | Viantez Hub (alt), Mind Arena (alt) |
 | **Journey** | Ians persönliche Silber→Challenger Story | Blog, Vlog |
 | **Montage-Play** | Der Content-Kreislauf | Content-Funnel (zu BWL) |
@@ -158,7 +162,7 @@ Besser spielen → schönere Plays → Montage-würdige Clips → LoL Director V
 - **Ein Schüler** hat ein **Symptom** (zu passiv, tilted schnell, verliert 1v1s)
 - **Symptom** → **Diagnostic** → **Diagnose** (Makro/Mechanik/Mental)
 - **Diagnose** → **Session-Format** (VOD/Live/Guided/Mental-Talk)
-- **Session-Format** → **Eskrima-Level-Ziel** für diese Session
+|- **Session-Format** → **Coaching-Level-Ziel** für diese Session
 - **Session** → **Journey-Content** (Clips, Learnings) → **Content-Engine**
 - **Content-Engine** → **Reichweite** → **neue Schüler**
 

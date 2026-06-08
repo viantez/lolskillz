@@ -1,7 +1,11 @@
 ---
-name: skill-grill-me
-description: "Kritisches Interview vor jeder Coaching-Session: Stress-teste den Session-Plan gegen die tatsächlichen Bedürfnisse des Schülers, die verfügbaren Daten und das Eskrima-Framework. Verhindert Blind-Sessions ohne Diagnostic-First-Prinzip."
+name: viantez-grill-me
+description: "Kritisches Interview vor jeder Coaching-Session: Stress-teste den Session-Plan gegen die tatsächlichen Bedürfnisse des Schülers, die verfügbaren Daten und das Coaching-Level-Modell. Verhindert Blind-Sessions ohne Diagnostic-First-Prinzip."
 tags: [viantez, coaching, session-prep, critical-thinking]
+related_skills:
+  - forge-of-legends-context
+  - diagnose-viantez
+  - viantez-schueler-notes
 ---
 
 # Viantez /grill-me — Session-Vorbereitung
@@ -18,7 +22,7 @@ Auch anwenden wenn Ian sagt **"schnelle Session"** oder **"nur bisschen VOD-Revi
 1. Was ist das EIGENTLICHE Problem? (nicht das Symptom)
 2. Haben wir genug Daten, um das zu beurteilen?
 3. Passt die Methode (Live-Coaching vs. VOD-Review vs. Mental-Talk) zum Problem?
-4. Welches Eskrima-Level ist anwendbar?
+4. Welches Coaching-Level ist anwendbar?
 
 ## Der Interview-Flow
 
@@ -36,7 +40,7 @@ Stelle die Fragen **EINE NACH DER ANDEREN** — warte auf Ians Antwort, bevor du
 
 **F3:** "Technisch oder mental? Was ist der Anteil?"
 
-> Recommended: Die meisten Silver/Gold-Probleme sehen technisch aus (CS, Mechaniken) sind aber mental (Panik, Tilt, Decision Fatigue). Eskrima-Level 1-2 Check.
+> Recommended: Die meisten Silver/Gold-Probleme sehen technisch aus (CS, Mechaniken) sind aber mental (Panik, Tilt, Decision Fatigue). Coaching-Level 1-2 Check.
 
 ### Phase 2 — Data Readiness
 
@@ -62,9 +66,9 @@ Stelle die Fragen **EINE NACH DER ANDEREN** — warte auf Ians Antwort, bevor du
 > - Mindset/Tilt → Mental-Talk (separate Session, kein LoL-Client)
 > - Champion-Pool → VOD-Review von 5+ Spielen + Theoretical Breakdown
 
-**F8:** "Welches Eskrima-Level ist hier anwendbar? Was ist das Ziel für diese eine Session?"
+**F8:** "Welches Coaching-Level ist hier anwendbar? Was ist das Ziel für diese eine Session?"
 
-> Recommended: Eine Session sollte 1-2 Eskrima-Level-Stufen überbrücken. Level 1→2 (Awareness→Understanding) ist realistisch für 1h. Level 2→3 braucht mehrere Sessions.
+> Recommended: Eine Session sollte 1-2 Level-Stufen überbrücken. Level 1→2 (Erkennen→Verstehen) ist realistisch für 1h. Level 2→3 braucht mehrere Sessions.
 
 ### Phase 4 — Session Structure
 
@@ -91,7 +95,7 @@ Wenn alle Fragen durch sind, fasse zusammen:
 **Datenlage:** [OP.GG / VOD / Nichts — Empfehlung]
 **Methode:** [Live / VOD / Guided / Mental-Talk]
 **Fokus:** [EINE Sache für diese Session]
-**Eskrima-Level:** [Start → Ziel]
+**Coaching-Level:** [Start → Ziel]
 **Dauer:** [1h / 3h / 5h geplant]
 ```
 
@@ -100,8 +104,8 @@ Wenn alle Fragen durch sind, fasse zusammen:
 - **Nicht einfach "mach mal" akzeptieren** — wenn Ian sagt "schnelle 1h, kein großer Plan", trotzdem die Fragen stellen. 1h ist zu teuer zum Verschwenden.
 - **Nicht in die Session springen bevor gegrillt wurde** — erst die Analyse, dann das Coaching.
 - **Nicht "ich weiß schon was er braucht" akzeptieren** — wenn Ian sicher ist, frag: "Woran siehst du das? Gib mir das konkrete Signal."
-- **Keine Platin-Standards auf Silber-Schüler anwenden** — Eskrima-Level bewusst niedrig ansetzen.
+- **Keine Platin-Standards auf Silber-Schüler anwenden** — Coaching-Level bewusst niedrig ansetzen.
 
 ## Integration mit Forge of Legends
 
-Dieser Skill setzt voraus, dass das **forge-of-legends-context**-Glossar geladen ist (Begriffe wie Eskrima-Level, Jungle-Phasen, Champion-Archetypen). Wenn nicht verfügbar, nachfragen ob der Context geladen werden soll.
+Dieser Skill setzt voraus, dass das **forge-of-legends-context**-Glossar geladen ist (Begriffe wie Coaching-Level, Jungle-Phasen, Champion-Archetypen). Wenn nicht verfügbar, nachfragen ob der Context geladen werden soll.

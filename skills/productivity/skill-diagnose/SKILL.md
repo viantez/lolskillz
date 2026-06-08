@@ -1,7 +1,11 @@
 ---
-name: skill-diagnose
+name: diagnose-viantez
 description: "Disziplinierte Diagnose für Spieler-Probleme. Reproduce → Hypothesen → Instrumentieren → Fix → Regression. Verhindert ‚du bist zu passiv‘-Oberflächlichkeit und erzwingt reproduzierbare Analyse vor der Intervention."
 tags: [viantez, coaching, diagnose, debug, spieler-analyse]
+related_skills:
+  - viantez-grill-me
+  - forge-of-legends-context
+  - viantez-schueler-notes
 ---
 
 # /diagnose für Viantez — Spieler-Analyse nach Pococks 5-Phasen
@@ -130,22 +134,22 @@ Markiere jeden Fund mit `[DIAG-<hypothese-kurz>]` — späteres Cleanup wird ein
 
 **Wenn es ein Makro-Fehler war:**
 - Session-Fokus: "Dein Pathing ist zu starr. Wir arbeiten an einer Regel: Vor jedem Gank checkst du (1) Lane-State (2) Summoners (3) Enemy-Jungle."
-- Eskrima-Level: Bewusstsein für den Fehler schaffen (Level 1→2)
+- **Coaching-Level:** Bewusstsein für den Fehler schaffen (Level 1→2)
 - Übung: 3 Spiele mit dieser Check-Liste spielen
 
 **Wenn es ein Mikro-Fehler war:**
 - Session-Fokus: "Deine Nidalee-Combo braucht 1.2s länger als nötig. Practice Tool: 20× Speer→Cougar→Execute drill."
-- Eskrima-Level: Wiederholung bis Automatism (Level 2→3)
+- **Coaching-Level:** Wiederholung bis Automatismus (Level 2→3)
 - Übung: 5× Practice-Tool pro Tag für 3 Tage
 
 **Wenn es Mental/Tilt war:**
 - Session-Fokus: "Du tilst nach Deaths. Regel: Nach jedem Death nimmst du 5s Pause. Check: Atmen, nächster Play, Tilt-Check."
-- Eskrima-Level: Selbsterkenntnis (Level 1→2)
+- **Coaching-Level:** Selbsterkenntnis (Level 1→2)
 - Keine Mechanik-Änderungen in derselben Session — Mental UND Mechanik gleichzeitig ist zu viel
 
 **Wenn es Knowledge-Gap war:**
 - Session-Fokus: "Du weißt nicht was dein Champion in diesem Matchup machen soll. Wir gehen 3 Common-Matchups durch." 
-- Eskrima-Level: Verständnis (Level 1→2)
+- **Coaching-Level:** Verständnis (Level 1→2)
 - Übung: Matchup zum nächsten Mal selbst analysieren lassen (schreibt 3 Sätze), dann Review
 
 ### Regression — Prüft ob der Fix hält
@@ -153,7 +157,7 @@ Markiere jeden Fund mit `[DIAG-<hypothese-kurz>]` — späteres Cleanup wird ein
 **Nächste Session:**
 - Wir wiederholen Phase 2 (Reproduzieren) mit dem Loop von Phase 1
 - Frage: "Ist das Signal besser oder weg?"
-- Wenn besser: Fix arbeitet → nächste Eskrima-Stufe
+- Wenn besser: Fix arbeitet → nächstes Coaching-Level
 - Wenn gleich: Fix nicht tief genug → Phase 3 (neue Hypothesen)
 - Wenn schlimmer: Falsche Diagnose → zurück zu Phase 1
 
@@ -178,7 +182,7 @@ Nach Abschluss aller 5 Phasen:
 **Hypothesen:** 3-5 mit (bestätigt / verworfen) Label
 **Bestätigte Ursache:** [Makro/Mikro/Mental/Knowledge — genau ein Satz]
 **Fix:** [Session-Fokus + Übung]
-**Eskrima-Level:** [Start → Ziel]
+**Coaching-Level:** [Start → Ziel]
 **Nächste Session:** [Regressionstest planen]
 ```
 
